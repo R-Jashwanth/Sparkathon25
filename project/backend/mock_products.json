@@ -1,0 +1,187 @@
+[
+    {
+        "id": "1",
+        "name": "Eco-Friendly Wireless Headphones",
+        "price": 149.99,
+        "originalPrice": 199.99,
+        "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "images": [
+            "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ],
+        "category": "Electronics",
+        "subcategory": "Audio",
+        "rating": 4.8,
+        "reviews": 324,
+        "inStock": true,
+        "stockCount": 45,
+        "ecoRating": 9.2,
+        "description": "Premium wireless headphones made from recycled materials with exceptional sound quality.",
+        "features": [
+            "Active Noise Cancellation",
+            "30-hour battery",
+            "Quick charge",
+            "Recycled materials"
+        ],
+        "brand": "EcoSound",
+        "colors": [
+            "Black",
+            "White",
+            "Green"
+        ],
+        "tags": [
+            "wireless",
+            "eco-friendly",
+            "premium"
+        ],
+        "isNew": true,
+        "discount": 25
+    },
+    {
+        "id": "2",
+        "name": "Sustainable Cotton T-Shirt",
+        "price": 29.99,
+        "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "images": [
+            "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ],
+        "category": "Fashion",
+        "subcategory": "Shirts",
+        "rating": 4.6,
+        "reviews": 189,
+        "inStock": true,
+        "stockCount": 78,
+        "ecoRating": 8.5,
+        "description": "Soft, comfortable t-shirt made from 100% organic cotton.",
+        "features": [
+            "Organic cotton",
+            "Fair trade",
+            "Pre-shrunk",
+            "Breathable"
+        ],
+        "brand": "GreenWear",
+        "sizes": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "colors": [
+            "White",
+            "Black",
+            "Navy",
+            "Forest Green"
+        ],
+        "tags": [
+            "organic",
+            "casual",
+            "sustainable"
+        ],
+        "isTrending": true
+    },
+    {
+        "id": "3",
+        "name": "Smart Home Security Camera",
+        "price": 89.99,
+        "image": "https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "images": [
+            "https://images.pexels.com/photos/430208/pexels-photo-430208.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ],
+        "category": "Electronics",
+        "subcategory": "Smart Home",
+        "rating": 4.7,
+        "reviews": 256,
+        "inStock": true,
+        "stockCount": 23,
+        "ecoRating": 7.8,
+        "description": "1080p HD security camera with motion detection and night vision.",
+        "features": [
+            "1080p HD",
+            "Motion detection",
+            "Night vision",
+            "Mobile app"
+        ],
+        "brand": "SecureHome",
+        "colors": [
+            "White",
+            "Black"
+        ],
+        "tags": [
+            "smart-home",
+            "security",
+            "wifi"
+        ],
+        "isNew": false
+    },
+    {
+        "id": "4",
+        "name": "Bamboo Kitchen Utensil Set",
+        "price": 24.99,
+        "image": "https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "images": [
+            "https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ],
+        "category": "Home",
+        "subcategory": "Kitchen",
+        "rating": 4.9,
+        "reviews": 145,
+        "inStock": true,
+        "stockCount": 67,
+        "ecoRating": 9.8,
+        "description": "Complete bamboo kitchen utensil set - eco-friendly and durable.",
+        "features": [
+            "100% bamboo",
+            "Dishwasher safe",
+            "6-piece set",
+            "Non-toxic"
+        ],
+        "brand": "EcoKitchen",
+        "tags": [
+            "bamboo",
+            "kitchen",
+            "eco-friendly",
+            "sustainable"
+        ],
+        "isTrending": true
+    },
+    {
+        "id": "5",
+        "name": "Minimalist Backpack",
+        "price": 79.99,
+        "originalPrice": 99.99,
+        "image": "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "images": [
+            "https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg?auto=compress&cs=tinysrgb&w=400"
+        ],
+        "category": "Fashion",
+        "subcategory": "Bags",
+        "rating": 4.5,
+        "reviews": 98,
+        "inStock": true,
+        "stockCount": 34,
+        "ecoRating": 8.1,
+        "description": "Sleek, minimalist backpack perfect for work or travel.",
+        "features": [
+            "Water-resistant",
+            "Laptop compartment",
+            "Multiple pockets",
+            "Ergonomic"
+        ],
+        "brand": "UrbanCarry",
+        "colors": [
+            "Black",
+            "Gray",
+            "Navy"
+        ],
+        "tags": [
+            "minimalist",
+            "travel",
+            "laptop",
+            "urban"
+        ],
+        "discount": 20
+    }
+]
