@@ -1,5 +1,10 @@
 # Sparkathon25 - AI-Powered Shopping Assistant
 
+[![TypeScript](https://img.shields.io/badge/TypeScript-93.7%25-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-4.7%25-green?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/R-Jashwanth/Sparkathon25)](https://github.com/R-Jashwanth/Sparkathon25)
+
 An intelligent shopping platform that combines visual search, AI recommendations, and a seamless shopping experience.
 
 ## Features
@@ -92,4 +97,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Built for Sparkathon 2025
-- Special thanks to all contributors and mentors 
+- Special thanks to all contributors and mentors
